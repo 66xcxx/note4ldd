@@ -30,3 +30,5 @@ Linux 设备模型：探索 Linux 内核中如何管理设备。√
 
 10.Advanced Topics: Explore advanced topics like power management and real-time Linux as you progress.
 高级主题：随着学习的深入，探索电源管理和实时 Linux 等高级主题。
+
+https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os
